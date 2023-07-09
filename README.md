@@ -6,6 +6,8 @@
 - 합성 데이터는 데이터 라벨링 작업을 위한 2배 이상의 시간 절약과 10배 가까운 비용을 절감하게 하고, 자동화를 바탕으로 정확한 라벨링의 데이터 그리고 정확한 AI 모델 개발을 위한 데이터의 다양화를 가능하게 합니다.
 - 학습용 합성데이터를 활용하여 `자동차 탐지를 수행하는 AI 모델`을 개발해야 합니다.
 
+### 1st Solution PDF
+[PDF Link](https://github.com/Geunju-hub/Synthetic-Data-Object-Detection/blob/main/VISOL_presentation.pdf)
 
 ## Project structure
 ```
